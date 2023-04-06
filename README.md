@@ -10,4 +10,5 @@ Download Links: https://pan.baidu.com/s/1dVUc6K9y_vlckLxa66UdMw
 Extraction Code: 2023
 
 The age and gender table of the 17 subjects in the LBRD-IC dataset is shown in the below, which we will include in the dataset link page. It is worth noting that some patients were transferred to our hospital for data collection, so their age information was lost. 
+
 ![image](https://github.com/ShawnTan86/LBRD-IC-Dataset/blob/main/lmagesFolderForReadMe/Age%20and%20gender%20information.png)
