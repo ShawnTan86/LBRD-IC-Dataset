@@ -6,7 +6,7 @@ to the subject's average respiratory rate over 10 seconds in the video. Each cor
 value corresponds to the average respiration rate of the subject in the video over 10 seconds.
 If you have any questions, please contact Xudong Tan (shawntannnn@gmail.com).
 
-[LBRD-IC Download Links](https://pan.baidu.com/s/1dVUc6K9y_vlckLxa66UdMw)
+[LBRD-IC Download Links](https://pan.baidu.com/s/1OfY3O-zZjyYcl2ab8YPfbQ)
 Extraction Code: 2023
 
 ## Important Links
