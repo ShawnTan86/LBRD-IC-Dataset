@@ -1,13 +1,18 @@
 # LBRD-IC-Dataset (IEEE Transactions on Multimedia 2023)
+
 The LBRD-IC consists of 10,100 videos, each of 10 seconds duration, which can be used in a
 non-contact respiratory signal detection task using the thoracoabdominal region, with their 
 corresponding true values in the "GroundTruth" folder, each corresponding value corresponding 
 to the subject's average respiratory rate over 10 seconds in the video. Each corresponding 
 value corresponds to the average respiration rate of the subject in the video over 10 seconds.
+
 If you have any questions, please contact Xudong Tan (shawntannnn@gmail.com).
 
-[LBRD-IC Download Links](https://pan.baidu.com/s/1OfY3O-zZjyYcl2ab8YPfbQ)
-Extraction Code: 2023
+## Download
+
+- [Google Drive](https://drive.google.com/drive/folders/1hTpRuYHCfAtHd9ddEqO4qzjKcrbX9ryw?usp=sharing)
+- [Baidu Netdisk](https://pan.baidu.com/s/1OfY3O-zZjyYcl2ab8YPfbQ)  
+  Extraction Code: `2023`
 
 ## Important Links
 - demo link: [Scene 1](https://www.youtube.com/watch?v=rpBcFdN-Pbw&t=2s), [Scene 2](https://www.youtube.com/watch?v=tb_ixhTzqvs) 🔥🔥🔥
